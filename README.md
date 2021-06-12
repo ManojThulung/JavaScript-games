@@ -1,3 +1,3 @@
 # JavaScript project
 
-Simple browser games made using JavaScript
+Two simple browser games made using JavaScript
